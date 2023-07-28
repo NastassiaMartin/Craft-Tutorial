@@ -1,0 +1,22 @@
+dateModified: 1690578181
+email:
+  fromEmail: tashamartin1@gmail.com
+  fromName: testsite
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    69ff2d52-2461-4526-80cc-08cce5d2ee11: Common # Common
+    96c89ec6-f5ee-4196-acd0-40b2e59bd02c: testsite # testsite
+    b2006814-e76f-4564-a581-758fc1e04985: testsite # testsite
+system:
+  edition: solo
+  live: true
+  name: testsite
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
